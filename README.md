@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img alt="TestYorself" src="./.github/desgincode_mockup.jpg" width="100%">
+  <img alt="TestYorself" href="https://user-images.githubusercontent.com/50696983/115930596-6e70d180-a492-11eb-852a-1dc8c3aebb6f.png" width="100%">
 </p>
 
 ## :rocket: Technologies
