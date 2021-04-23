@@ -2,10 +2,6 @@
     Test Yorself
 </h1>
 
-<p align="center">
-  <a href="#rocket-tecnologias">Tecnologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
-
 <br>
 
 <p align="center">
